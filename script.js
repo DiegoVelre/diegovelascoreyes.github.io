@@ -1,10 +1,10 @@
 
 const images = [
-    'imagenes/DSC06982.jpg',
-    'imagenes/viente.jpg',
-    'imagenes/Foto.jpg',
-    'imagenes/foto huaxtla 4534-12.jpg',
-    'imagenes/foto huaxtla 4534-18.jpg'
+    'DSC06982.jpg',
+    'viente.jpg',
+    'Foto.jpg',
+    'foto huaxtla 4534-12.jpg',
+    'foto huaxtla 4534-18.jpg'
 ];
 
 function alternateImages() {
